@@ -1,3 +1,2 @@
 # RAWL SOCIETY STUDIO
-
-Sitio web oficial de la marca juvenil RAWL SOCIETY.
+Sitio web completo y funcional para la marca juvenil RAWL.
